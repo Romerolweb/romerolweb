@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 
+My name is Sebastian, I am a Software Engineer👋
 
 <!--
 **Romerolweb/romerolweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,5 +32,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development, playing guitar.
 - ⚡ Fun fact: I like music and learning about new topics Tech related.
 -   I am from Colombia
--   I am A Christian.
+-   I am A Christian, and I am so glad to share with you information about Jesus.
  
