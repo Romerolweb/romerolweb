@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about Web Development and Software Engineering
-- 📫 How to reach me: https://www.linkedin.com/in/sebastian-romerol
+* 📫 How to reach me:
+    - https://www.linkedin.com/in/sebastian-romerol
+    - https://torre.co/Romerolweb
 - 🔭 I’m currently working working as a software developer.
 - 🎓 I studied at FET University in Colombia and participate in Salisbury University as in a research opportunity.
 
@@ -32,5 +34,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development, playing guitar.
 - ⚡ Fun fact: I like music and learning about new topics Tech related.
 -   I am from Colombia
--   I am A Christian, and I am so glad to share about Jesus with you. He has changed my life, and I want to share it.
+-   I am A Christian, and I am so glad to share about **Jesus** with you. He has changed my life, and I want to share it.
+
+
+
  
