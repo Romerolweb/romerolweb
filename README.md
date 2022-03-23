@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development, playing guitar.
 - ⚡ Fun fact: I like music and learning about new topics Tech related.
 -   I am from Colombia
--   I am A Christian, and I am so glad to share with you information about Jesus.
+-   I am A Christian, and I am so glad to share about Jesus with you. He has changed my life, and I want to share it.
  
