@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm **Sebastian**, a passionate Software Engineer and a dedicated student pursuing a Master's degree in Information Technology. I hail from the beautiful country of Colombia and am a proud Christian. I love sharing about my faith and how it has positively transformed my life.
+I'm **Sebastian**, a passionate Software Engineer and a dedicated student pursuing a Master's degree in Information Technology (expected November 2026). With a strong foundation in programming languages (PHP, JavaScript, Python, SQL) and web development frameworks (Vue.js). I'm eager to launch a career in building large-scale enterprise applications and am particularly interested in applications, the Go programming language, and Linux for cloud management. I'm a fast learner with excellent teamwork and communication skills, honed through my student ambassador experience. I hail from the beautiful country of Colombia and am a proud Christian. I love sharing about my faith and how it has positively transformed my life.
 
 ## Let's Talk Tech 💬
 
@@ -36,5 +36,21 @@ I'm currently honing my skills in Web Development and learning to play the guita
 ## Fun Fact ⚡
 
 I have a deep appreciation for music and love exploring new tech-related topics.
+
+
+## Skills 💡
+
+- **Technical Skills**: Laravel Framework, PHP (OOP), JavaScript, Python, SQL, Web Development (frameworks like Vue.js), Databases (MySQL, Postgres, Cloud Databases), APIs (RESTful), Cloud Computing (AWS), Data Analysis, Scripting Languages, Advanced Version Control Systems (Git)
+- **Soft Skills**: Leadership, Communication, Project Management, Problem-Solving, Analytical Skills, Multicultural Experience, Fast Learner, Time Management
+
+## Languages 🌍
+
+- **Spanish**: Fully fluent / Native
+- **English**: Professional level
+
+## References 📝
+
+Available upon request.
+
 
 Thanks for stopping by! 😊
