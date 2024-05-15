@@ -6,7 +6,7 @@ My name is Sebastian. I am a Software Engineer👋 and a Student in the Master o
 
 📫 How to reach me:
 - [neosoftware.dev](https://neosoftware.dev/)
-- https://www.linkedin.com/in/sebastian-romerol
+- https://www.linkedin.com/in/sebastian-romerol/
 - https://torre.co/Romerolweb
 
 🔭 I’m currently working as a software developer.
