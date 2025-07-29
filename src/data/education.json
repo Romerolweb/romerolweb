@@ -1,0 +1,44 @@
+[
+  {
+    "degree": "Master of Information Technology (Cybersecurity and Artificial Intelligence)",
+    "institution": "CQUniversity",
+    "location": "Brisbane, QLD, Australia",
+    "dates": "March 2023 - September 2025"
+  },
+  {
+    "degree": "Bachelor’s in Software Engineer",
+    "institution": "Neiva’s Technological School Foundation",
+    "location": "Neiva, Huila, Colombia",
+    "dates": "January 2017 - January 2022"
+  },
+  {
+    "degree": "International Research Scholarship",
+    "institution": "Salisbury University",
+    "location": "Salisbury, MD, USA",
+    "dates": "2020"
+  },
+  {
+    "degree": "Cybersecurity Diploma",
+    "institution": "Neiva’s Technological School Foundation Continuous education",
+    "location": "Neiva, Huila, Colombia",
+    "dates": "2019"
+  },
+  {
+    "degree": "Technologist in Software Development",
+    "institution": "Neiva’s Technological School Foundation",
+    "location": "Neiva, Huila, Colombia",
+    "dates": "February 2017 - May 2019"
+  },
+  {
+    "degree": "Technician in Software Development",
+    "institution": "Neiva’s Technological School Foundation",
+    "location": "Neiva, Huila, Colombia",
+    "dates": "February 2017 - January 2019"
+  },
+  {
+    "degree": "Technician in Software Design",
+    "institution": "Neiva’s Technological School Foundation",
+    "location": "Neiva, Huila, Colombia",
+    "dates": "March 2014 - September 2016"
+  }
+]

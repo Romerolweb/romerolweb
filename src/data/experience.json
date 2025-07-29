@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Platform Recipes",
+    "location": "Brisbane, Australia",
+    "dates": "March 2024 - February 2025",
+    "description": [
+      "Containerizing a PostgreSQL DB for local development.",
+      "Implementing CI/CD with GitHub Actions, platform recipes, and AWS.",
+      "Writing SQL queries for consulting information from the Postgres DB.",
+      "Technical leadership and development of Golang CLI tool for DevOps engineers (Soon to be open sourced)"
+    ]
+  },
+  {
+    "title": "CEO / Software Engineer Lead",
+    "company": "Neo Software Development",
+    "location": "Huila, Colombia",
+    "dates": "Jul 2022 - August 2023",
+    "description": [
+      "Design and requirements gathering for custom event management software for non-profit organizations, which may reduce up to 8% of the commission charged to attendees.",
+      "Designing three layers of software architecture, increasing maintainability and scalability.",
+      "Using data analysis to develop a cybersecurity strategy for their WordPress web page, stopping up to 5000 daily intrusion attempts and restoring Back-Ups with minimal downtime if cybersecurity threads were found."
+    ]
+  },
+  {
+    "title": "Software Developer",
+    "company": "Avalanche Industries, LLC",
+    "location": "Delaware, USA",
+    "dates": "Jan 2022 - Jun 2022",
+    "description": [
+      "Automation of weekly data import (PDF to Excel) reducing 3 hours’ time of payroll team.",
+      "Developed new features and maintained existing software.",
+      "Conducted software bug fixes and wrote unit tests.",
+      "Documented code for user clarity and collaborated with Amazon's RESTful APIs.",
+      "Utilised MySQL databases for generating reports.",
+      "Managed IT support tasks (printers, surveillance systems, installations)."
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "company": "OIE of Salisbury University",
+    "location": "Maryland, USA",
+    "dates": "September 2021 - December 2021",
+    "description": [
+      "Cleaning and compiling information from multiple sources and outcoming with a single database.",
+      "working within an inclusive environment and ensuring data queries for personal information towards different communities in the University"
+    ]
+  },
+  {
+    "title": "Cloud Architect internship",
+    "company": "Logical Software Factory",
+    "location": "Remote Position",
+    "dates": "September 2021 - November 2021",
+    "description": [
+      "Reduced cloud infrastructure costs by over 75% through implementing reserved instances.",
+      "Deployed an EC2 instance using Docker containers for efficient resource utilisation.",
+      "Configured Route 53 for reliable and scalable domain name system (DNS) management.",
+      "Implemented security rules to strengthen the cloud environment's overall cybersecurity posture."
+    ]
+  },
+  {
+    "title": "Software Engineering",
+    "company": "Nivelics SAS",
+    "location": "Bogota DC, Colombia",
+    "dates": "August 2021 - September 2021",
+    "description": [
+      "Implementing security enhancements after the cybersecurity expert’s feedback by encrypting data traffic through two e-commerce that worked simultaneously.",
+      "Improve internal data flow through a Rest API communication with SAP Software.",
+      "Improve emails sent to clients and their administration.",
+      "Implementation of a system to upload documents through an API.",
+      "Adding features to a custom Content Management System."
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "company": "The Nation Newspaper (La Nacion)",
+    "location": "Huila, Colombia",
+    "dates": "December 2018 - December 2019",
+    "description": [
+      "Collaborated with stakeholders to define functional and non-functional requirements for a new e-commerce platform.",
+      "Leveraged market research and customer data to identify products suited for online sales and conceptualise targeted landing pages.",
+      "Developed and implemented a new sales channel on tienda.lanacion.com.co, ensuring seamless integration with existing systems and allowing customers to buy the newspaper subscription directly in the e-commerce."
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "company": "Cold Chain Colombia SAS",
+    "location": "Huila, Colombia",
+    "dates": "March 2017 - May 2018",
+    "description": [
+      "Facilitated the transition from paper-based information management to a web-based software solution.",
+      "Developed web and mobile platforms to deliver business operation insights to Cold Chain Colombia's customers.",
+      "Designed and developed a role-based access for the Content Maintenance Management System (CMMS).",
+      "Team leadership with a successful software development outcome.",
+      "Implemented QR code technology for efficient machine identification within Cold Chain Colombia's operations.",
+      "Created insightful graphs to give the CEO a comprehensive view of maintenance operations."
+    ]
+  }
+]

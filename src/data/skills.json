@@ -1,0 +1,42 @@
+{
+  "technical": [
+    "Machine Learning",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "Web Development (Vue.js)",
+    "Databases (MySQL, Postgres, Cloud Databases)",
+    "APIs (RESTful)",
+    "Laravel Framework",
+    "PHP (OOP)",
+    "CRON",
+    "Cloud Computing (AWS and Azure)",
+    "Data Analysis",
+    "Scripting Languages",
+    "Advanced Version Control Systems (Gitlab, GitHub, Bitbucket)",
+    "PaaS",
+    "Data Analysis",
+    "Docker",
+    "Technical writing",
+    "Jira",
+    "Classification and Regression Models using Keras, and Scikit-learn",
+    "AWS AIM",
+    "AZURE",
+    "Microsoft AKS",
+    "Kubernetes",
+    "Docker",
+    "NEXT",
+    "GOLANG for CLI and for back end (web projects)"
+  ],
+  "soft": [
+    "Leadership",
+    "Communication",
+    "Project Management",
+    "Problem-Solving",
+    "Analytical Skills",
+    "Multicultural Experience",
+    "Fast Learner",
+    "Time Management",
+    "Resilience"
+  ]
+}
