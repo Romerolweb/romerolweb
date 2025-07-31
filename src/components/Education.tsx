@@ -1,4 +1,5 @@
 import React from 'react';
+import { Card, Title, Text } from '@tremor/react';
 
 interface Education {
   degree: string;
@@ -14,16 +15,14 @@ interface EducationProps {
 const Education: React.FC<EducationProps> = ({ education }) => {
   return (
     <section className="py-20">
-      <h2 className="text-3xl font-bold text-center mb-10">Education</h2>
+      <Title className="text-center mb-10">Education</Title>
       <div className="flex flex-col items-center">
         {education.map((edu, index) => (
-          <div key={index} className="card w-full max-w-2xl bg-base-100 shadow-xl mb-6">
-            <div className="card-body">
-              <h3 className="card-title">{edu.degree}</h3>
-              <p className="text-lg">{edu.institution} - {edu.location}</p>
-              <p className="text-sm text-gray-500">{edu.dates}</p>
-            </div>
-          </div>
+          <Card key={index} className="max-w-2xl mb-6">
+            <Title>{edu.degree}</Title>
+            <Text>{edu.institution} - {edu.location}</Text>
+            <Text>{edu.dates}</Text>
+          </Card>
         ))}
       </div>
     </section>

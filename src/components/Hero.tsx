@@ -1,4 +1,5 @@
 import React from 'react';
+import { Title, Text } from '@tremor/react';
 
 interface HeroProps {
   name: string;
@@ -9,14 +10,10 @@ interface HeroProps {
 
 const Hero: React.FC<HeroProps> = ({ name, title, location, description }) => {
   return (
-    <div className="hero min-h-screen bg-base-200">
-      <div className="hero-content text-center">
-        <div className="max-w-md">
-          <h1 className="text-5xl font-bold">{name}</h1>
-          <p className="py-6">{title} in {location}</p>
-          <p>{description}</p>
-        </div>
-      </div>
+    <div className="text-center p-12">
+      <Title>{name}</Title>
+      <Text>{title} in {location}</Text>
+      <Text>{description}</Text>
     </div>
   );
 };
