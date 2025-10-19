@@ -8,8 +8,8 @@ I have a strong background in **Web Development** and **Software Engineering**. 
 
 ## Reach Out to Me 📫
 
-- Personal Website: [neosoftware.dev](https://neosoftware.dev/)
-- LinkedIn: [Sebastian Romerol](https://www.linkedin.com/in/sebastian-romerol/)
+- Personal Portfolio: [romerolweb.github.io](romerolweb.github.io)
+- LinkedIn: [Sebastian Romero Laguna](https://www.linkedin.com/in/sebastian-romerol/)
 - Torre: [Romerolweb](https://torre.co/Romerolweb)
 
 ## My Work Experience 🔭
